@@ -1,0 +1,2 @@
+# Yagci-ai
+Yapay zeka
